@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.logo{
+    font-size: 20px;
+    color: #00ffff;
+    width: 40px;
+    height: 20px;
+}
+
+
+main{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+article{
+    flex: 2;
+    overflow-y: auto;
+}
+
+aside{
+    flex: 1;
+    overflow-y: auto;
+}
+
