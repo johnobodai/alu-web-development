@@ -9,5 +9,7 @@ float: left;
 
 
 .section_1 {
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
 }
