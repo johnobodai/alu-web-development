@@ -42,3 +42,45 @@ table {
 	border-spacing: 0;
 }
 
+
+/*
+    ========================================
+    Buttons
+    ========================================
+*/
+
+
+
+.btn {
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0;
+}
+
+.YHWH {
+    border-top: 4px solid white;
+    float: left
+    <!-- padding: 40px 0 22px 0; -->
+}
+
+.links {
+    border-top: 4px solid white;
+    float: right
+}
+
+
+.page_1 {
+    clear: both;
+    text-align: center;
+}
+
+.page_11 {
+    display: inline-block;
+    margin: 0 1.5%;
+    width: 20%;
+    border-radius: 50%;
+}
+
+.getsch {
+    
+}
